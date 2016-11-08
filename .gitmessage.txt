@@ -1,0 +1,33 @@
+
+# :icon: <message> <issue-link>
+
+# Signed-off-by: Alexandre A. Barbosa <alexandreab@live.com>
+# Signed-off-by: Bruna Moreira <brunanayaramlima@gmail.com>
+# Signed-off-by: Felipe Duerno <felipeduernoal@gmail.com>
+# Signed-off-by: Guilherme Borges <guilhermeblf@gmail.com>
+# Signed-off-by: Leandro Rodrigues <leandro.l2r@gmail.com>
+# Signed-off-by: Leonn Ferreira <leonn.paiva@gmail.com>
+# Signed-off-by: Luis Gustavo <gustavo.barros@zerum.com>
+# Signed-off-by: Mateus Andrade <mateusandrade080@gmail.com>
+# Signed-off-by: Matheus Leone <mathlealva@gmail.com>
+# Signed-off-by: Matheus Faria <matheus.sousa.faria@gmail.com>
+# Signed-off-by: Thales Rocha <tthhaalleess@gmail.com>
+# Signed-off-by: Toure Holder <toureh@hotmail.com>
+# Signed-off-by: Wagner Santos <wagnerjs.unb@gmail.com>
+
+# For more info about commit messages: https://github.com/systemits/.github/blob/master/CONTRIBUTING.md
+
+# :bulb: quando adicionar nova funcionalidade
+# :repeat: quando alguma alteração for feita
+# :cool: quando melhorias de formato/estrutura do código
+# :racehorse: quando melhorar o desempenho
+# :non-potable_water: quando resolver memory leaks.
+# :memo: quando escrever documentação
+# :bug: quando consertar um problema
+# :fire: quando remover código ou arquivos
+# :green_heart: quando consertar problemas de Itegração Contínua
+# :white_check_mark: quando adicionar testes
+# :lock: quando lidar com segurança
+# :arrow_up: quando realizar o upgrade de dependências
+# :arrow_down: quando realizar downgrade de dependências
+# :minidisc: quando realizar backup de dados
